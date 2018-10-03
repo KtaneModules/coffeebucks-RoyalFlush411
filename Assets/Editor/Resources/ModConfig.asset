@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: coffeebucks
+  title: Coffeebucks
+  description: 'Coffeebucks 1.11
+
+    These millennials make some weird caffeinated combinations. On the plus side,
+    this company pays its taxes...
+
+
+    Module ID: coffeebucks
+
+
+    Created by: Royal_Flu$h & Elias
+
+    Implemented by: Royal_Flu$h
+
+    Starring: Royal_Flu$h, Mrs_Flu$h, Panda & Cub
+
+
+    Manual available here: https://ktane.timwi.de/HTML/Coffeebucks.html'
+  version: 1.11
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: 4ada59963cebe4c178c50c557c57ab6a, type: 3}
